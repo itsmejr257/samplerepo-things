@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e71d7c3-8a8c-4d47-a3de-159c7c5e0b4b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/colors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/colors.txt" afterDir="false" />
-    </list>
+    <list default="true" id="6e71d7c3-8a8c-4d47-a3de-159c7c5e0b4b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature1",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/samplerepo-things"
   }
