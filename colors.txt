@@ -5,3 +5,4 @@ red
 green
 white red blue
 white yeloow bluue purple
+black red blue
